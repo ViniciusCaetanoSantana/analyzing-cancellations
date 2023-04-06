@@ -6,4 +6,4 @@
 
 <br>
 
-Using the plotly library I printed graphics that show us alot of departaments, and how it went based on cancellations rate
+Using the plotly library I printed graphics that show us a lot of departaments, and how it went based on cancellations rate
